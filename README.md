@@ -3,7 +3,7 @@
 
 ***
 
-- 🔭 I’m currently working on [odin-project-landpage](https://github.com/AlcaldeLeonardo/odin-landingpage-project)
+- 🔭 I’m currently working on [Calculator](https://github.com/AlcaldeLeonardo/Calculator)
 
 - 🌱 I’m currently learning **javascript avanced, reactjs**
 

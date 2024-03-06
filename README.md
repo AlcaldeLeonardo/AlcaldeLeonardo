@@ -3,7 +3,7 @@
 
 ***
 
-- 🔭 I’m currently working on [FullStackOpen Part 1](https://github.com/AlcaldeLeonardo/exercisesFullStackOpenPart1)
+- 🔭 I’m currently working on [Calculator Odin](https://github.com/AlcaldeLeonardo/CalculatorO)
 
 - 🌱 I’m currently learning **javascript avanced, reactjs**
 

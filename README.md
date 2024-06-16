@@ -3,7 +3,7 @@
 
 ***
 
-- 🔭 I’m currently working on [Calculator Odin](https://github.com/AlcaldeLeonardo/CalculatorO)
+- 🔭 I’m currently working on [Tic Tac Toe Odin](https://github.com/AlcaldeLeonardo/tic-tac-toe-game)
 
 - 🌱 I’m currently learning **javascript avanced, reactjs**
 

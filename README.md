@@ -3,8 +3,6 @@
 
 ***
 
-- 🔭 I’m currently working on [Tic Tac Toe Odin](https://github.com/AlcaldeLeonardo/tic-tac-toe-game)
-
 - 🌱 I’m currently learning **javascript avanced, reactjs**
 
 - 💬 Ask me about **bootstrap, css, sass, js, java**

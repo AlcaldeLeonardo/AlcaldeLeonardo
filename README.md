@@ -3,6 +3,8 @@
 
 ***
 
+- 🔭 I’m currently working on FincsApp
+
 - 🌱 I’m currently learning **javascript avanced, reactjs**
 
 - 💬 Ask me about **bootstrap, css, sass, js, java**
